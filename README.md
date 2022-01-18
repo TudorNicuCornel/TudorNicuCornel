@@ -23,4 +23,4 @@ def Nicu():
   curr_teaching = 'Digital Design Logic'
 ```
 
-<p align="center"><i>⚡Life is simple,only if you do it so!</i></p>
+<p align="center"><i>Life is simple,only if you do it so!</i></p>
