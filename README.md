@@ -9,7 +9,7 @@ Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer S
 [![GitHub Thaiane](https://img.shields.io/github/followers/TudorNicuCornel?label=follow&style=social)](https://github.com/TudorNicuCornel)
 
 
-### ℹ️ A little more about me...  
+### ℹ️ A little more about me... 
 
 ```python
 def Nicu():
