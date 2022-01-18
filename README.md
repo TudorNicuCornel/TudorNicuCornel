@@ -1,7 +1,7 @@
 
 <h2> Hi there 👋</h2>
-<h3> Tudor Nicu Cornel </h3>
 <img src="https://user-images.githubusercontent.com/80213274/149977901-c5537e36-dccc-410c-b0db-e55707aabc70.png"></img>
+<h3> I am Tudor Nicu Cornel </h3>
 Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer Science, University of Bucharest</a>💻
 </em></p>
 
