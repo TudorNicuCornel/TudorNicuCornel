@@ -1,16 +1,26 @@
-###  
-![Hey there 👋, I'm NICU. I'm a student at Computer Science,Check out my work]
 
-<!--
-**TudorNicuCornel/TudorNicuCornel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi there 👋</h2>
+<img src="https://i.imgur.com/2c4Loth.gif"></img>
+<h3> Tudor Nicu Cornel </h3>
+Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer Science, University of Bucharest</a>💻
+</em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: alexandru-nicoi](https://img.shields.io/badge/-alexandru_nicoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicu-cornel-tudor-542852226/)](https://www.linkedin.com/in/nicu-cornel-tudor-542852226/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/TudorNicuCornel?label=follow&style=social)](https://github.com/TudorNicuCornel)
 
-- 🌱 I’m currently learning ...
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ℹ️ A little more about me...  
+
+```python
+def Nicu():
+  full_name = 'TudorNicuCornel'
+  age = 19
+  email = 'tnicu631@gmail.com'
+  bachelor_degree_pursuing = 'Computers and Information Technology'
+  curr_year = '2/4'
+  prog_skills = 'c++' + 'python'  + 'c' + 'sql' 
+  passions = 'programming' + 'cars' + 'games' + 'space' + 'trips' 
+  curr_teaching = 'Digital Design Logic'
+```
+
+<p align="center"><i>⚡The best way to predict your future... is to create it!⚡</i></p>
