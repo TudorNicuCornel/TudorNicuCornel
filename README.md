@@ -1,7 +1,8 @@
 
 <h2> Hi there 👋</h2>
-<img src="https://i.imgur.com/2c4Loth.gif"></img>
 <h3> Tudor Nicu Cornel </h3>
+![photo-1542903660-eedba2cda473](https://user-images.githubusercontent.com/80213274/149977901-c5537e36-dccc-410c-b0db-e55707aabc70.png)
+
 Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer Science, University of Bucharest</a>💻
 </em></p>
 
