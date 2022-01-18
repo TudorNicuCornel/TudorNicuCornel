@@ -5,7 +5,7 @@
 Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer Science, University of Bucharest</a>💻
 </em></p>
 
-[![Linkedin: alexandru-nicoi](https://img.shields.io/badge/-alexandru_nicoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicu-cornel-tudor-542852226/)](https://www.linkedin.com/in/nicu-cornel-tudor-542852226/)
+[![Linkedin: alexandru-nicoi](https://img.shields.io/badge/-Tudor_Nicu_Cornel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicu-cornel-tudor-542852226/)](https://www.linkedin.com/in/nicu-cornel-tudor-542852226/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/TudorNicuCornel?label=follow&style=social)](https://github.com/TudorNicuCornel)
 
 
@@ -23,4 +23,4 @@ def Nicu():
   curr_teaching = 'Digital Design Logic'
 ```
 
-<p align="center"><i>⚡The best way to predict your future... is to create it!⚡</i></p>
+<p align="center"><i>⚡Life is simple,only if you do it so!</i></p>
