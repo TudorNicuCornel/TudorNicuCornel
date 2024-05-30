@@ -14,10 +14,10 @@ Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer S
 ```python
 def Nicu():
   full_name = 'TudorNicuCornel'
-  age = 19
+  age = 22
   email = 'tnicu631@gmail.com'
   bachelor_degree_pursuing = 'Computers and Information Technology'
-  curr_year = '2/4'
+  curr_year = '4/4'
   prog_skills = 'c++' + 'python'  + 'c' + 'sql' 
   passions = 'programming' + 'cars' + 'games' + 'space' + 'trips' 
   curr_teaching = 'Digital Design Logic'
