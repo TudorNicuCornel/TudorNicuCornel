@@ -19,7 +19,7 @@ def Nicu():
   bachelor_degree_pursuing = 'Computers and Information Technology'
   curr_year = '4/4'
   prog_skills = 'c++' + 'python'  + 'c' + 'sql' 
-  passions = 'programming' + 'cars' + 'games' + 'space' + 'trips' 
+  passions = 'programming' + 'cars'  + 'space' + 'trips' 
   past_teaching1 = 'Digital Design Logic'
   past_teaching2 = 'Computer Programming'
 ```
